@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![ajana's 42 stats](https://badge.mediaplus.ma/greenbinary/ajana)](https://github.com/oakoudad/badge42)
 
